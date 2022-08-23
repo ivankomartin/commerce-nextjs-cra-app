@@ -1,8 +1,8 @@
 # About this project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project was focused on learning Tailwind rather than React.
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
