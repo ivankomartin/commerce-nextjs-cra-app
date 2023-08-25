@@ -1,4 +1,4 @@
-# About this project
+# About this project - commerce-from-zero - without recoil
 
 ## This project was focused on learning Tailwind rather than React.
 
